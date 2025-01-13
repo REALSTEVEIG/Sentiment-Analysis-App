@@ -19,8 +19,8 @@ A **Swagger documentation** is available for testing and reference, accessible a
 ### **2. Installation**
 1. Clone the repository:
    ```bash
-   git https://github.com/REALSTEVEIG/My-Sentiment-Analysis-App
-   cd My-Sentiment-Analysis-App
+   git https://github.com/REALSTEVEIG/Sentiment-Analysis-App
+   cd Sentiment-Analysis-App
    ```
 2. Install the dependencies:
    ```bash
