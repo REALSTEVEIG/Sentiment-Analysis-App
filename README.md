@@ -53,8 +53,6 @@ A **Swagger documentation** is available for testing and reference, accessible a
 
 The app will be available at: [http://localhost:3000](http://localhost:3000).
 
-Demo Link: `https://www.loom.com/share/38b8fd0050d546f7b75291202afc5280?sid=032ed764-04dd-4e81-b06a-832bcaa6f08e`
-
 ---
 
 ## **API Endpoints**
@@ -163,4 +161,6 @@ src/
 ├─ package.json                      
 ├─ README.md                      
 └─ tsconfig.json 
+
+Demo Link: `https://www.loom.com/share/38b8fd0050d546f7b75291202afc5280?sid=032ed764-04dd-4e81-b06a-832bcaa6f08e`
 ```
