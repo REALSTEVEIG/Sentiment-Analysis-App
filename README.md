@@ -42,6 +42,10 @@ A **Swagger documentation** is available for testing and reference, accessible a
   ```bash
   npm start
   ```
+  - To run the test:
+  ```bash
+  npm test
+  ```
 
 The app will be available at: [http://localhost:3000](http://localhost:3000).
 
