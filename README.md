@@ -42,6 +42,10 @@ A **Swagger documentation** is available for testing and reference, accessible a
   ```bash
   npm start
   ```
+  - Or, build a local docker image and start the image using this command:
+  ```bash
+  docker build -t sentiment-app . && docker run -d --name sentiment-app sentiment-app 
+  ```
   - To run the test:
   ```bash
   npm test
